@@ -1,0 +1,23 @@
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* Welcome to SMS Recipient Simulator!!                              *
+*                                                                   *
+* This application simulates the behavior of a phone when it        *
+* receives an SMS. This is a great tool for you to study and test   *
+* SMPP Protocol Parameters, especially message_payload, esm_class,  * 
+* etc. You can simulate and learn how Concatenated SMS and UDH work,*
+* as well as the implementation of message_payload.                 *
+*                                                                   *
+* This simulator is able to connect and bind to SMCS and receive    *
+* PDUs from it. But you must connect it with a TESTING SMSC or an   *
+* SMSC simulator such as SMPPSim. Then it compares the destination  *
+* address of the PDU with its own phone number. If the PDUs belong  *
+* to it, then it combines the PDUs (if necessary) and print out the *
+* received SMS. The SMS can be an individual short short message,   *
+* concatenated SMS, and message_payload.                            *  
+*                                                                   *
+* WARNING: Do NOT connect this simulator to any production SMS      *
+* Center. If you do, then the SMPP Receiver in the production       *
+* environment will lose some of the replies from customers.         *
+*                                                                   *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *

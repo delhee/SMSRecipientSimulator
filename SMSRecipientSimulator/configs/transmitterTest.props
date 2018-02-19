@@ -1,0 +1,12 @@
+#Recipient 1's info:
+
+SMSC_IP_ADDRESS=127.0.0.1
+SMPP_PORT=2775
+SYSTEM_ID=smppclient1
+PASSWORD=password
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# WARNING: Do NOT connect this simulator to any production SMS  #
+# Center. If you do, then the SMPP Receiver in the production   #
+# environment will lose some of the replies from customers.     #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

@@ -1,0 +1,6 @@
+
+Instructions:
+    help:    for instruction. 
+    welcome: to show welcome messages
+    quit:    to end the program
+    exit:    to end the program

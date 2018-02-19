@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//configs/log4j.properties=UTF-8
+encoding//logs/SMSRecipientSim.log=UTF-8
+encoding//src/org/edu/alb/programming/sms/SMSRecipientSimulator.java=UTF-8
+encoding//src/org/edu/alb/programming/sms/threads/SMPPReceiverThread.java=UTF-8
+encoding//src/org/edu/alb/programming/sms/threads/SMSBatchProcessThread.java=UTF-8
+encoding//src/org/edu/alb/programming/sms/threads/SMSDisplayThread.java=UTF-8
+encoding//src/org/edu/alb/programming/sms/threads/TestConcatenatedSMSThread.java=UTF-8
+encoding//src/org/edu/alb/programming/sms/threads/TestIndividualSMSThread.java=UTF-8
+encoding//src/org/edu/alb/programming/sms/threads/TestMessagePayloadThread.java=UTF-8
